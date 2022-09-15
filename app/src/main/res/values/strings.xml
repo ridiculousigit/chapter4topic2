@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">chapter4topic2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user">UserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="judul_aplikasi"><i>Git.News</i></string>
+    <string name="motto_aplikasi">Lini Berita Masa Kini</string>
+
+    <!--Berita Satu-->
+    <string name="headline_news1">Film One Piece : Red Raup Untung Rp 1,2 Triliun</string>
+    <string name="author_news1">Tia Agnes Astuti</string>
+    <string name="date_news1">Jumat, 2 Sep 2022 10:51 WIB</string>
+    <string name="body_news1">
+        \t<b>Jakarta - </b>Sejak akhir bulan lalu, film One Piece: Red menjadi pembicaraan di kalangan para penggemarnya.Ditayangkan pada 6 September, film yang diadaptasi dari manga Eiichiro Oda itu disebut raup keuntungan lebih dari Rp 1 triliun selama sebulan.\n\n
+        \tSelama 4 minggu berturut-turut, One Piece: Red menjual 8,6 juta tiket. Di awal penayangan, sudah ada 1,5 juta tiket yang terjual.\n\n
+        \tDalam waktu 9 hari, masyarakat Jepang sudah membeli tiketnya sebanyak 4,7 juta tiket dan angka itu terus naik sampai di hari ke-23 dengan 8,2 juta tiket. Hasil penghitungan terakhir adalah 8,6 juta selama 26 hari penayangan di bioskop.
+    </string>
+
+    <!--Berita Dua-->
+    <string name="headline_news2">Walkot Cilegon Datangi Kemenag Usai Heboh Penolakan Gereja</string>
+    <string name="author_news2">Anggi Muliawati</string>
+    <string name="date_news2">Rabu, 14 Sep 2022 10:24 WIB</string>
+    <string name="body_news2">
+        \t<b>Jakarta - </b>Helldy Agustian mendatangi kantor Kementerian Agama (Kemenag) hari ini. Helldy datang terkait geger penolakan pembangunan Gereja HKBP Maranatha di Cikuasa, Gerem, Kota Cilegon. Helldy Agustian mendatangi kantor Kementerian Agama (Kemenag) hari ini. Helldy datang terkait geger penolakan pembangunan Gereja HKBP Maranatha di Cikuasa, Gerem, Kota Cilegon.\n\n
+        \tPantauan detikcom di lokasi, Rabu (14/9/2022), Helldy tiba di kantor Kemenag, Jalan Lapangan Banteng, Jakarta Pusat, sekitar pukul 10.15 WIB. Dia tampak mengenakan pakaian dinas.\n\n
+        \tHelldy langsung masuk ke kantor Kemenag. Menteri Agama (Menag) Yaqut Cholil Qoumas sudah tiba lebih dahulu di kantornya.
+    </string>
+
+    <!--Berita Tiga-->
+    <string name="headline_news3">Daftar Terbaru Hukuman Etik ke 9 Polisi di Kasus Ferdi Sambo</string>
+    <string name="author_news3">Dwi Andayani</string>
+    <string name="date_news3">Rabu, 14 Sep 2022 09:21 WIB</string>
+    <string name="body_news3">
+        \t<b>Jakarta, Detik - </b>Komisi Kode Etik Polri (KKEP) terus menggelar sidang untuk para polisi terkait kasus pembunuhan Brigadir Yosua Hutabarat (Josua) yang diotaki eks Kadiv Propam Irjen Ferdi Sambo. Sejauh ini sembilan polisi sudah menjalani sidang etik dan dijatuhi sanksi.\n\n
+        \tKapolri Jenderal Listyo Sigit Prabowo menyampaikan ada 35 polisi yang diduga melanggar etik terkait kasus tersebut. Hal itu disampaikannya dalam rapat bersama Komisi III DPR pada Rabu (24/8/2022).\n\n
+        \tMereka dianggap melakukan pelanggaran etik profesi hingga perintangan penyidikan (obstruction of justice). Untuk diketahui, ada tujuh orang yang ditetapkan sebagai tersangka obstruction of justice.
+    </string>
+
+    <!--Berita Empat-->
+    <string name="headline_news4">Suciwati Buka Suara Usai Hacker Bjorka Ungkap Pembunuh Munir</string>
+    <string name="author_news4">Dwi Andayani</string>
+    <string name="date_news4">Rabu, 14 Sep 2022 09:21 WIB</string>
+    <string name="body_news4">
+        \t<b>Jakarta, Detik - </b>Istri aktivis hak asasi manusia (HAM) Munir Said Thalib, Suciwati menilai tindakan hacker Bjorka yang membeberkan pelaku pembunuhan suaminya merupakan pesan penting.\n\n
+        \tSuci berpendapat aksi Bjorka itu memperlihatkan bahwa masyarakat masih berharap kasus pembunuhan yang terjadi 18 tahun lalu itu bisa dibongkar.\n\n
+        \t"Dengan adanya bocoran yang sedang ramai hari ini menurut saya justru sebetulnya ini pesan penting, orang masih terus kok bertanya tentang kasus Munir," kata Suci di kantor KontraS, Jakarta, Selasa (13/9).
+    </string>
+
+    <!--Berita Lima-->
+    <string name="headline_news5">Penembakan Misterius 1980an Ribuan Korban Jiwa, Petrus Beraksi Pertama di Yogya</string>
+    <string name="author_news5">S. Dian Andryanto</string>
+    <string name="date_news5">Minggu, 28 Nov 2021 15:40 WIB</string>
+    <string name="body_news5">
+        \t<b>Jakarta, Tempo - </b>Penembakan Misterius atau sering disingkat Petrus merupakan salah satu peristiwa kelam yang terjadi di Era Orde Baru. Sebagaimana dirangkum dari berbagai sumber, Petrus merupakan peristiwa penembakan terhadap orang-orang yang dituduh sebagai preman atau gali di beberapa penjuru daerah.\n\n
+        \tOrang-orang yang menjadi korban Petrus biasanya akan dibiarkan tergeletak di tengah jalan atau di bawah jembatan sehingga publik dapat menyaksikan sendiri kejamnya peristiwa tersebut. Selain dibiarkan tergeletak, beberapa korban lainnya justru disembunyikan dan hingga kini tidak diketahui nasibnya.\n\n
+        \tBerbagai macam spekulasi hadir untuk menjelaskan cara Petrus bekerja selama Order Baru. Presiden Soeharto, sebagaimana ditulis dalam otobiografinya Pikiran, Ucapan, dan Tindakan Saya, mengungkapkan bahwa Petrus merupakan metode pembasmi kejahatan yang efektif. Petrus menjadi efektif karena mampu membawa efek jera yang luar biasa pada para pelaku kejahatan.
+    </string>
+
+    <!--Berita Enam-->
+    <string name="headline_news6">Kronologi Kerusuhan Mei 1998</string>
+    <string name="author_news6">Verelladevanka Adryamarthanino</string>
+    <string name="date_news6">Senin, 15 Nov 2021 15:00 WIB</string>
+    <string name="body_news6">
+        \t<b>Jakarta, Kompas - </b>Pada tanggal 13 Mei hingga 15 Mei 1998, terjadi kerusuhan di Jakarta yang dikenal dengan Kerusuhan Mei 1998. Penyebab pertama yang memicu terjadinya Kerusuhan Mei 1998 adalah krisis finansial Asia yang terjadi sejak tahun 1997.\n\n
+        \tSaat itu, banyak perusahaan yang bangkrut, jutaan orang dipecat, 16 bank dilikuidasi, dan berbagai proyek besar juga dihentikan.  Krisis ekonomi yang tengah terjadi kemudian memicu rangkaian aksi unjuk rasa di sejumlah wilayah di Indonesia.\n\n
+        \tDalam unjuk rasa tersebut, ada empat korban jiwa yang tewas tertembak. Mereka adalah mahasiswa Universitas Trisakti.  Tewasnya keempat mahasiswa tersebut pun menambah kemarahan masyarakat yang saat itu sudah terbebani dengan krisis ekonomi.
+    </string>
+
+    <!--Berita Tujuh-->
+    <string name="headline_news7">Peristiwa G30S PKI Bukan Pelanggaran HAM Berat, tapi Makar</string>
+    <string name="author_news7">Tim Liputan Sindo</string>
+    <string name="date_news7">Selasa, 26 Jul 2022 09:17 WIB</string>
+    <string name="body_news7">
+        \t<b>Jakarta, Sindo - </b>Koran Kompas dan Tempo, tanggal 21 Juni 2016, merujuk hasil "peradilan HAM untuk Peristiwa G30S PKI" yang diselenggarakan di Den Haag dihadiri oleh Nursyahbani, Todung Mulya Lubis dkk, dan menyatakan bahwa peristiwa G30S PKI telah mengakibatkan enam jenis pelanggaran HAM. Beberapa di antaranya adalah genosida dan kejahatan kemanusiaan.\n\n
+        \tPrinsip kedaulatan negara diakui secara universal termasuk di dalam Mukadimah Perserikatan Bangsa-Bangsa (1946), Universal Declaration of Human Rights (1948), dan ketentuan konvensi terkait perlindungan HAM kecuali Statuta Roma (ICC) tahun 1998. Pernyataan hakim Peradilan Semu (Moot Court) tentang peristiwa G30S PKI di Belanda adalah keliru dan menyesatkan karena telah menempatkan peristiwa pemberontakan PKI tahun 1965 dari perspektif ketentuan internasional HAM.\n\n
+        \tPadahal, ketentuan pemuliaan dan perlindungan HAM di Indonesia baru diberlakukan pada tahun 1999 dengan UU RI Nomor 39 Tahun 1999 tentang HAM, dan larangan pelanggaran HAM menjadi tindak pidana sejak diberlakukan UU RI Nomor 26 Tahun 2000 tentang Pengadilan HAM dan pembentukan Komnas HAM pasca tahun 1999.
+    </string>
+
+    <!--Berita Delapan-->
+    <string name="headline_news8">Eliza Mengakui Perintah Pengeboman dari Tommy Soeharto</string>
+    <string name="author_news8">Tim Liputan 6 SCTV</string>
+    <string name="date_news8">Minggu, 21 Jan 2001, 08:26 WIB</string>
+    <string name="body_news8">
+        \t<b>Jakarta, Liputan6 - </b>Hutomo Mandala Putra alias Tommy Soeharto diduga terlibat dalam rencana pengeboman Kantor Departemen Perindustrian dan Perdagangan, Direktorat Jenderal Pajak, serta Kejaksaan Agung. Dugaan tersebut berdasarkan pengakuan Eliza Maria Tuahatu alias Baby, tersangka kasus pengeboman yang tertangkap di Anjungan Daerah Istimewa Yogyakarta Taman Mini Indonesia Indah Jakarta (Jumat 19/1).\n\n
+        \tMenurut Kepala Dinas Penerangan Polri Brigadir Jenderal Saleh Saaf di Jakarta, Sabtu (20/1), Eliza mengaku tiga paket bom yang dibawanya berasal dari Tommy Soeharto, termasuk tiga lembar cek senilai Rp 75 juta. Bahkan, Eliza mengaku mempunyai kedekatan dengan buronan yang tersangkut kasus tukar guling tanah antara PT Goro Batara Sakti dan Badan Urusan Logistik itu. Soal kedekatan tersebut dibenarkan juga oleh tersangka lain, Sonya yang juga ibu Eliza.\n\n
+        \tSementara itu, Kepolisian Daerah Sumatra Utara menyatakan Gerakan Aceh Merdeka terlibat dalam kasus 14 bom malam Natal di Medan dan Pematangsiantar tahun silam. Kadispen Polda Sumut Ajun Komisaris Besar Amrin Karim membenarkan keterlibatan GAM tersebut. Hal itu terungkap berdasarkan hasil penyelidikan dari tiga tersangka Aziz alias Lingga seorang anggota GAM dan tersangka lain masing-masing Edi Sugiarto dan Fadli.
+    </string>
+
+    <!--Berita Sembilan-->
+    <string name="headline_news9">Kelangsungan Pemerintahan Gus Dur Ditentukan 2001</string>
+    <string name="author_news9">Esther Mulyanie dan Prihandoyo</string>
+    <string name="date_news9">Sabtu, 9 Des 2000, 20:52 WIB</string>
+    <string name="body_news9">
+        \t<b>Jakarta, Liputan6 - </b>Teriakan agar Presiden Abdurrahman Wahid mundur kembali bergema. Kali ini mencuat dari ekonom Syahrir dan pengamat politik Azyumardi Azra. Keduanya menyampaikan pernyataan itu dalam diskusi mengenai evaluasi kinerja Pemerintahan Gus Dur di Jakarta, Selasa (19/12) siang.\n\n
+        \tSyahrir memperkirakan, 2001 adalah tahun penentuan kelangsungan pemerintahan Gus Dur. Karena itu dia meminta, Presiden Wahid mengubah sikap. Khususnya, jelas dia, perilaku Gus Dur yang kerap mengeluarkan pernyataan kontraproduktif bagi pemerintahannya. Dia menambahkan, pemerintah harus segera membereskan persoalan yang membelit Indonesia. Dia menegaskan, salah satu solusinya: Presiden Wahid mesti mundur.\n\n
+        \tHal yang sama diungkapkan Azyumardi Azra. Menurut Rektor Institut Ilmu Agama Islam Negeri itu, Gus Dur adalah sumber masalah. Karena itu mau tak mau Presiden harus merubah perilaku. Di mata dia, kebijakan perubahan kabinet bukan langkah efektif dalam menuntaskan masalah. Keduanya sepakat konsolidasi pemerintah berawal dari sikap Presiden. Dengan begitu diharapkan, kelak pemerintahan dapat berjalan lebih efektif.
+    </string>
+
+    <!--Berita Sepuluh-->
+    <string name="headline_news10">Habibie: Tak Ada Rekayasa buat Timtim</string>
+    <string name="author_news10">Olivia Rosalia, Agung Nugraha dan Bambang Triono</string>
+    <string name="date_news10">Jumat, 21 Mar 2003, 08:44 WIB</string>
+    <string name="body_news10">
+        \t<b>Jakarta, Liputan6 - </b>Sejarah eks provinsi ke-27 yang melepaskan diri dari Negara Kesatuan Republik Indonesia dibongkar lagi. Menurut tokoh utama pada masa itu, Bacharuddin Jusuf Habibie, sebenarnya pemerintah sama sekali tak merekayasa agar kelompok pro-integrasi bisa memenangkan Jajak Pendapat 1999. Penegasan tersebut dikemukakan bekas Presiden ketiga RI itu dalam kesaksian pada Sidang Pelanggaran Hak Asasi Manusia Berat Timtim yang dipimpin ketua majelis hakim Andi Samsan Nganro di Pengadilan Negeri Jakarta Pusat, Kamis (20/3).\n\n
+        \tDalam kesaksian atas terdakwa mantan Komandan Komando Resor Militer 164 Wiradharma Brigadir Jenderal TNI Tono Suratman, Habibie menjelaskan alasan pemerintah memberikan opsi bagi Timtim: tetap bergabung dengan Indonesia atau memisahkan diri. Menurut bekas Menteri Riset dan Teknologi era Presiden Soeharto itu, pilihan buat warga setempat—yang sekarang bernama resmi Timor Leste—didasarkan pertimbangan demokrasi dan reformasi. Intinya, supaya rakyat Timtim bisa menyuarakan keinginannya. Kendati wilayah tersebut mungkin lepas dari Tanah Air, tapi dia menegaskan, tak ada rekayasa supaya Timtim tetap memilih opsi pertama. "Kita memberikan kepada mereka (rakyat Timtim), kesempatan maunya apa," kata dia.\n\n
+        \tPernyataan Habibie langsung ditanggapi jaksa penuntut umum G. Simangunsong. Menurut dia, tak jelas solusi yang ditawarkan petinggi militer Indonesia pada saat itu dalam penyelesaian Kasus Timtim. &amp;quotApakah Pak Wiranto (Panglima ABRI saat itu) menanyakan kepada saksi untuk menerima opsi?&amp;quot tanya jaksa penuntut umum G. Simangunsong. Pertanyaan ini langsung diprotes tim pengacara terdakwa. "Keberatan! Pertanyaan yang diajukan JPU ini salah alamat," ucap pengacara terdakwa, Yan Juanda. Setelah ditengahi Andi Samsan Nganro, Habibie hanya menjawab pendek. "Saya tidak tahu," tutur bekas Wapres di saat terakhir pemerintahan Presiden Soeharto itu.
+    </string>
+</resources>
