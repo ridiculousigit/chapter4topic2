@@ -14,10 +14,10 @@
         android:theme="@style/Theme.Chapter4topic2"
         tools:targetApi="31">
         <activity
-            android:name=".NewsActivity"
+            android:name=".DetailNewsActivity"
             android:exported="false" />
         <activity
-            android:name=".databindingrv.StudentActivity"
+            android:name=".databindingnews.NewsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,6 +25,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".databindingrv.StudentActivity"
+            android:exported="false" />
         <activity
             android:name=".databindingsimple.UserActivity"
             android:exported="false"

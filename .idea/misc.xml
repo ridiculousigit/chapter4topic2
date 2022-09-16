@@ -6,6 +6,9 @@
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable-v24/bg_frame_radius.xml" value="0.1595" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable-v24/ic_back.xml" value="0.1595" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable-v24/ic_share.xml" value="0.1595" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable/bg_frame_radius.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_detail_news.xml" value="0.2" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_news.xml" value="0.11875" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_student.xml" value="0.1" />
@@ -13,8 +16,9 @@
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_user2.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news.xml" value="0.1" />
-        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news_detail.xml" value="0.264" />
-        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_news.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news_detail.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news_detail2.xml" value="0.13854166666666667" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_news.xml" value="0.13333333333333333" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_student.xml" value="0.1" />
       </map>
     </option>

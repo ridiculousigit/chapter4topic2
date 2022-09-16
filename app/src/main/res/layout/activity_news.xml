@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
+        <variable
+            name="news"
+            type="binar.academy.chapter4topic2.databindingnews.News" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -16,10 +18,10 @@
             android:id="@+id/rvNews"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
 </layout>
