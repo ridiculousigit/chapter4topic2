@@ -40,7 +40,7 @@ class NewsViewModel : ViewModel() {
         News(
             "Peristiwa G30S PKI Bukan Pelanggaran HAM Berat, tapi Makar",
             "Tim Liputan Sindo", "Selasa, 26 Jul 2022 09:17 WIB",
-            R.drawable.bg_news_onepiece, R.string.body_news7
+            R.drawable.bg_news_pki, R.string.body_news7
         ),
         News(
             "Eliza Mengakui Perintah Pengeboman dari Tommy Soeharto",

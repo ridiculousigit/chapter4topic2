@@ -72,17 +72,19 @@
                     android:orientation="vertical"
                     tools:ignore="UselessParent">
 
-                    <com.google.android.material.imageview.ShapeableImageView
-                        android:id="@+id/imgberita"
+                    <ImageView
+                        android:id="@+id/imgnews"
                         android:layout_width="match_parent"
                         android:layout_height="280dp"
-                        android:layout_gravity="center"
-                        android:background="@android:color/transparent"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginEnd="20dp"
+                        android:layout_marginBottom="40dp"
                         android:elevation="5dp"
+                        android:adjustViewBounds="true"
+                        android:contentDescription="Gambar News"
                         android:scaleType="fitXY"
-                        app:imageResource="@{berita.image}"
-                        app:strokeColor="@color/latte"
-                        app:strokeWidth="10dp" />
+                        app:imageResource="@{berita.image}" />
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="wrap_content"
@@ -100,7 +102,6 @@
                             android:layout_height="wrap_content"
                             android:padding="10dp"
                             android:src="@drawable/ic_share"
-                            app:tint="@android:color/white"
                             android:contentDescription="Icon Share" />
 
                     </androidx.cardview.widget.CardView>
@@ -109,12 +110,13 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginTop="-100dp"
+                        android:layout_marginHorizontal="20dp"
                         android:background="@drawable/bg_frame_radius"
                         android:gravity="center"
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/headlineberita"
+                            android:id="@+id/headlinenews"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="50dp"
@@ -127,7 +129,7 @@
                             android:textStyle="bold" />
 
                         <TextView
-                            android:id="@+id/authorberita"
+                            android:id="@+id/authornews"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
@@ -139,7 +141,7 @@
                             android:textStyle="bold" />
 
                         <TextView
-                            android:id="@+id/dateberita"
+                            android:id="@+id/datenews"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
@@ -150,11 +152,10 @@
                             android:textSize="14sp" />
 
                         <TextView
-                            android:id="@+id/bodyberita"
+                            android:id="@+id/bodynews"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:paddingLeft="10dp"
-                            android:paddingRight="10dp"
+                            android:paddingHorizontal="20dp"
                             android:layout_marginVertical="15dp"
                             android:justificationMode="inter_word"
                             android:text="@{berita.body}"
