@@ -9,9 +9,9 @@
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable/bg_frame_image.xml" value="0.173" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable/bg_frame_radius.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/drawable/ic_share.xml" value="0.1" />
-        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_detail_news.xml" value="0.3751763046544429" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_detail_news.xml" value="0.2938271604938272" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_news.xml" value="0.11875" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_news.xml" value="0.2351851851851852" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_student.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_user.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/activity_user2.xml" value="0.1" />
@@ -21,6 +21,7 @@
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news_detail2.xml" value="0.13854166666666667" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_news.xml" value="0.13333333333333333" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_student.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
