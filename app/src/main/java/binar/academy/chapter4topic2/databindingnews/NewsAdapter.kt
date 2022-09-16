@@ -6,17 +6,13 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import binar.academy.chapter4topic2.databinding.ItemNewsBinding
 
-class NewsAdapter (private var listBerita:ArrayList<News>) : RecyclerView.Adapter<NewsAdapter.ViewHolder>() {
+class NewsAdapter (private var listBerita:ArrayList<News>, private val newsListener: NewsListener) : RecyclerView.Adapter<NewsAdapter.ViewHolder>() {
 
     var onClick:((News) -> Unit)? = null
 
-    class ViewHolder(val binding:ItemNewsBinding):RecyclerView.ViewHolder(binding.root) {
+    inner class ViewHolder(val binding:ItemNewsBinding):RecyclerView.ViewHolder(binding.root) {
         fun databind(itemData:News){
             binding.berita = itemData
-            binding.cvBerita.setOnClickListener{
-                val bundle = Bundle()
-                bundle.putSerializable("news", itemData)
-            }
         }
     }
 
@@ -28,12 +24,19 @@ class NewsAdapter (private var listBerita:ArrayList<News>) : RecyclerView.Adapte
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.databind(listBerita[position])
+        holder.itemView.setOnClickListener {
+            newsListener.onNewsSelected(listBerita[position])
+        }
     }
 
     override fun getItemCount(): Int = listBerita.size
 
     fun getData(data : ArrayList<News>) {
         this.listBerita = data
+    }
+
+    interface NewsListener {
+        fun onNewsSelected(news: News)
     }
 }
 

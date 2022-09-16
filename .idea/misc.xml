@@ -20,10 +20,12 @@
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/fragment_news_detail2.xml" value="0.13854166666666667" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_news.xml" value="0.13333333333333333" />
         <entry key="..\:/Projects/AndroidStudioProjects/chapter4topic2/app/src/main/res/layout/item_student.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AndroidStudioProjects/Chapter4topic/app/src/main/res/layout/activity_detail_news.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/aryad/AndroidStudioProjects/Chapter4topic/app/src/main/res/layout/item_news.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

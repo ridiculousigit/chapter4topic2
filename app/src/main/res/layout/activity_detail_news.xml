@@ -80,7 +80,7 @@
                         android:background="@android:color/transparent"
                         android:elevation="5dp"
                         android:scaleType="fitXY"
-                        app:srcCompat="@{berita.image}"
+                        app:imageResource="@{berita.image}"
                         app:strokeColor="@color/latte"
                         app:strokeWidth="10dp" />
 

@@ -22,10 +22,6 @@ class DetailNewsActivity : AppCompatActivity() {
     }
     private fun gotData() {
         val gotNews = intent.getSerializableExtra("berita") as News
-        imgberita.setImageResource(gotNews.image)
-        headlineberita.text = gotNews.headline
-        authorberita.text = gotNews.author
-        dateberita.text = gotNews.date
-        bodyberita.setText(gotNews.body)
+        binding.berita = News(gotNews.headline, gotNews.author, gotNews.date, gotNews.image, gotNews.body)
     }
 }

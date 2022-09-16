@@ -2,6 +2,7 @@ package binar.academy.chapter4topic2.databindingnews
 
 import android.content.Intent
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
@@ -9,7 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import binar.academy.chapter4topic2.R
 import binar.academy.chapter4topic2.databinding.ActivityNewsBinding
 
-class NewsActivity : AppCompatActivity() {
+class NewsActivity : AppCompatActivity(), NewsAdapter.NewsListener {
     lateinit var binding : ActivityNewsBinding
     val viewModel : NewsViewModel by viewModels()
     lateinit var adapter: NewsAdapter
@@ -26,14 +27,14 @@ class NewsActivity : AppCompatActivity() {
     }
 
     fun reViewNews() {
-        adapter = NewsAdapter(ArrayList())
+        adapter = NewsAdapter(ArrayList(), this)
         binding.rvNews.adapter = adapter
         binding.rvNews.layoutManager = LinearLayoutManager(this)
+    }
 
-        adapter.onClick = {
-            val intent = Intent(this, DetailNewsActivity :: class.java)
-            intent.putExtra("berita", it)
-            startActivity(intent)
-        }
+    override fun onNewsSelected(news: News) {
+        val intent = Intent(this, DetailNewsActivity :: class.java)
+        intent.putExtra("berita", news)
+        startActivity(intent)
     }
 }
