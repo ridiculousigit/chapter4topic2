@@ -1,11 +1,10 @@
 package binar.academy.chapter4topic2.databindingnews
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import binar.academy.chapter4topic2.R
 import binar.academy.chapter4topic2.databinding.ActivityDetailNewsBinding
-import kotlinx.android.synthetic.main.activity_detail_news.*
 
 class DetailNewsActivity : AppCompatActivity() {
     lateinit var binding : ActivityDetailNewsBinding

@@ -2,7 +2,6 @@ package binar.academy.chapter4topic2.databindingnews
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
@@ -12,8 +11,8 @@ import binar.academy.chapter4topic2.databinding.ActivityNewsBinding
 
 class NewsActivity : AppCompatActivity(), NewsAdapter.NewsListener {
     lateinit var binding : ActivityNewsBinding
-    val viewModel : NewsViewModel by viewModels()
-    lateinit var adapter: NewsAdapter
+    private val viewModel : NewsViewModel by viewModels()
+    private lateinit var adapter: NewsAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,7 +25,7 @@ class NewsActivity : AppCompatActivity(), NewsAdapter.NewsListener {
         reViewNews()
     }
 
-    fun reViewNews() {
+    private fun reViewNews() {
         adapter = NewsAdapter(ArrayList(), this)
         binding.rvNews.adapter = adapter
         binding.rvNews.layoutManager = LinearLayoutManager(this)
